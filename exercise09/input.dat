@@ -1,0 +1,15 @@
+1
+500
+300
+30
+1.5
+circ
+
+
+
+	ReadInput >> circ; 
+	ReadInput >> ngens;
+	ReadInput >> times_per_gen;  //quante volte fa crossover + mutazioni in una generazione
+	ReadInput >> max_times; //dopo quante generazioni si ferma
+	ReadInput >> sel_pow;
+	ReadInput >> volta;
