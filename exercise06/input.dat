@@ -1,0 +1,28 @@
+2.0
+50
+1.0
+0.02
+1
+100
+10000
+0
+1
+prova8
+
+
+
+
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;  //bool-> 1=Metropolis, 0=Gibbs
+  ReadInput >> nblk;  //numero di blocchi
+  ReadInput >> nstep;  //numero di step per ogni blocco
+  ReadInput >> start;  //bool, se 1 riparte da configurazione precedente
+  ReadInput >> equi;  //bool, se 1 equilibra
+  ReadInput >> filename; //per cambiare nome senza ricompilare
+
+
+
+
+  (ReadInput >> nblk_equi;  //quanti blocchi usare durante l’equilibrazione)
