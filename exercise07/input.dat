@@ -1,0 +1,21 @@
+0.8
+108
+1.1
+2.2
+0.12
+100
+5000
+100
+forseok
+Solid
+
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep; // numero di step nel blocco
+  ReadInput >> iprint;
+  ReadInput >> filename; //per cambiare nome se faccio andare più volte
+  ReadInput >> dirname;
