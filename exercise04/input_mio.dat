@@ -1,0 +1,25 @@
+0.8
+108
+1.1
+2.2
+0.0005
+1000
+9
+100
+0
+0
+_forseok2_NOequi
+Solid
+
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> delta;
+  ReadInput >> blk_length;
+  ReadInput >> nblk;
+  ReadInput >> iprint;
+  ReadInput >> old;  //vuoi ripartire da configurazione precedente?
+  ReadInput >> equilibration;  //vuoi equilibrare le velocità?
+  ReadInput >> filename;
+  ReadInput >> dirname;  //per cartelle diverse a seconda della fase
