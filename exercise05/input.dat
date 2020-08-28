@@ -1,0 +1,19 @@
+1.88
+1.
+1.
+0.
+1
+1
+10000
+5000
+volta1
+
+
+ReadInput >> step
+ReadInput >> x_0
+ReadInput >> y_0
+ReadInput >> z_0  (posizione iniziale)
+ReadInput >> orbital (0 -> usa s1 , 1-> usa p)
+ReadInput >> T (0-> usa uniforme, 1-> usa Gaussiana)
+ReadInput >> ntimes (numero di passi nella simulazione)
+ReadInput >> nstep (numero di passi nel singolo blocco)

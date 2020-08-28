@@ -1,0 +1,14 @@
+10.
+10.
+10.
+1
+0
+1
+
+
+  ReadInput >> x_0;
+  ReadInput >> y_0;
+  ReadInput >> z_0;
+  ReadInput >> orbital; (0 -> s, 1 -> p)
+  ReadInput >> T; (0-> uniform , 1->gauss)
+  ReadInput >> itime (volte che riprovo, così non riscrive sempre nello stesso file)
