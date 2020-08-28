@@ -1,0 +1,23 @@
+0.
+100
+5000
+con20vals
+100
+1.
+0.025
+
+
+
+
+
+
+
+
+
+	ReadInput >> x;  //legge la posizione iniziale
+ 	ReadInput >> nblk;   //numero di blocchi
+  	ReadInput >> nstep;  // numero di step per blocco
+	ReadInput >> volta; //per cambiare il nome al file
+	ReadInput >> n_metropolis_times;
+  	ReadInput >> beta_max;
+  	ReadInput >> beta_step;

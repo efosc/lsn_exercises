@@ -1,0 +1,15 @@
+0.
+0.8
+0.6
+2.53
+1000000
+posizioni2
+
+
+
+  ReadInput >> x;
+  ReadInput >> mu;
+  ReadInput >> sigma;
+  ReadInput >> delta;
+  ReadInput >> ntimes;
+  ReadInput >> volta; //per fare nomi file diversi
