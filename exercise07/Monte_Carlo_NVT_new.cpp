@@ -264,7 +264,7 @@ void Measure()
 
 ///////////// PRINT INSTANT VALUES ////////////////////////////////////////
 void Instant(){
-  const double space = 12.;
+  const double space = 48.;
   ofstream print;
   print.open(dirname + "/instant_" + filename + ".dat", ios::app);
   // U/N , press

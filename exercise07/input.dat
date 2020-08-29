@@ -1,13 +1,15 @@
-1.1
+1.2
 108
-0.8
-2.5
-0.2
+0.05
+5.0
+7.5
 100
 5000
 100
-forseok3
-Liquid
+forseok4
+Gas
+
+
 
   ReadInput >> temp;
   ReadInput >> npart;
