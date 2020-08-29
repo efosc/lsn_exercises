@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 { 
   Input(); //Inizialization
 
-  Equilibration();   // fa 300 step per equilibrare
+  Equilibration();   // fa 400 step per equilibrare
 
   cout << "Equilibrated" <<endl;
 
