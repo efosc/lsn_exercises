@@ -1,13 +1,13 @@
-0.8
-108
 1.1
-2.2
-0.12
+108
+0.8
+2.5
+0.2
 100
 5000
 100
-forseok
-Solid
+forseok3
+Liquid
 
   ReadInput >> temp;
   ReadInput >> npart;
