@@ -1,0 +1,24 @@
+1
+prova4
+0.05
+0.01
+100
+1000
+2.0
+75
+10000
+10.0
+75
+10000
+
+
+	ReadInput >> initial_beta;    //beta iniziale da cui part
+	ReadInput >> beta_step1;       //di quanto aumentare beta ogni volta
+	ReadInput >> n_beta_steps1;        //quanti step di temperatura/beta
+	ReadInput >> nsteps1;         //quanti passi con proposte mutazioni ogni volta
+	ReadInput >> beta_step2;       //di quanto aumentare beta ogni volta
+	ReadInput >> n_beta_steps2;        //quanti step di temperatura
+	ReadInput >> nsteps2;         //quanti passi con proposte mutazioni ogni volta
+	ReadInput >> beta_step3;       //di quanto aumentare beta ogni volta
+	ReadInput >> n_beta_steps3;        //quanti step di temperatura
+	ReadInput >> nsteps3;         //quanti passi con proposte mutazioni ogni volta
